@@ -61,4 +61,4 @@ Este projeto foi desenvolvido para fins acadêmicos, demonstrando:
 
 ## 👨‍💻 Autor
 
-Desenvolvido por André Rocha
+Desenvolvido por André Rocha e Matheus Soares
