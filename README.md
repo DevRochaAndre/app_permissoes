@@ -1,17 +1,61 @@
-# app_permissoes
+# 📱 App Permissões - Flutter
 
-A new Flutter project.
+Este é um aplicativo desenvolvido em Flutter com o objetivo de demonstrar o uso de permissões nativas do Android, como **câmera e localização (GPS)**.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Funcionalidades
 
-A few resources to get you started if this is your first Flutter project:
+- 🔐 Tela de login simples
+- 📍 Captura de localização em tempo real (GPS)
+- 📸 Acesso à câmera do dispositivo
+- ⏰ Registro de horário de entrada
+- 🧾 Exibição de foto e dados na tela
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🔑 Login de teste
+
+- Usuário: `admin`
+- Senha: `123`
+
+---
+
+## 📱 Permissões utilizadas
+
+O aplicativo solicita permissões em tempo de execução:
+
+- Localização (GPS)
+- Câmera
+
+---
+
+## ⚙️ Tecnologias utilizadas
+
+- Flutter
+- Dart
+- Geolocator
+- Image Picker
+- Permission Handler
+
+---
+
+## 🎯 Objetivo do projeto
+
+Este projeto foi desenvolvido para fins acadêmicos, demonstrando:
+
+- Uso de permissões no Android
+- Integração com recursos nativos (GPS e câmera)
+- Desenvolvimento de interface com Flutter
+
+---
+
+## 📷 Demonstração
+
+(O professor pode testar diretamente no dispositivo Android)
+
+---
+
+## 👨‍💻 Autor
+
+Desenvolvido por André Rocha
