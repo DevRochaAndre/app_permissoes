@@ -11,6 +11,7 @@ Este é um aplicativo desenvolvido em Flutter com o objetivo de demonstrar o uso
 - 📸 Acesso à câmera do dispositivo
 - ⏰ Registro de horário de entrada
 - 🧾 Exibição de foto e dados na tela
+- 🔵 Busca de dispositivos Bluetooth próximos
 
 ---
 
@@ -27,6 +28,7 @@ O aplicativo solicita permissões em tempo de execução:
 
 - Localização (GPS)
 - Câmera
+- Bluetooth
 
 ---
 
@@ -37,6 +39,7 @@ O aplicativo solicita permissões em tempo de execução:
 - Geolocator
 - Image Picker
 - Permission Handler
+- Flutter Blue Plus
 
 ---
 
